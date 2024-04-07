@@ -1,4 +1,4 @@
-# Research Projects in Computational Social Science Phenomena (RP_CSSP)
+# Research Projects in Computational Studies of Social Phenomena (RP_CSSP)
 
 [Indira Sen](https://indiiigo.github.io/), Summer 2024, Uni Konstanz
 
@@ -28,4 +28,4 @@ Jul 15:	Project Guidance and Discussion\
 Jul 22:	Midway Presentations\
 Jul 29:	Project Guidance and Discussion\
 mid-August (exact date TBD):	Final Presentations\
-end-August (exact date TBD):	Final Reports Due\
+end-August (exact date TBD):	Final Reports Due
