@@ -19,7 +19,7 @@ Apr 22:	[Description of Projects and Datasets](https://github.com/Indiiigo/css_r
 May 13:	[Techniques for Exploratory Data Analysis](https://github.com/Indiiigo/css_research_projects/blob/main/slides/4_RP_CSSP_EDA_DataViz.pdf)\
 Jun 3: [Text-as-Data Methods](https://github.com/Indiiigo/css_research_projects/blob/main/slides/5_RP_CSSP_TADA.pdf)\
 Jun 10:	[Causal Inference](https://github.com/Indiiigo/css_research_projects/blob/main/slides/6_RP_CSSP_Causal_Inference.pdf)\
-Jun 17:	Reproducible Research Pipeline\
+Jun 17:	[Reproducible Research Pipeline](https://github.com/Indiiigo/css_research_projects/blob/main/slides/7_RP_CSSP_Ethics_Reproducible_Research.pdf)\
 Jun 24:	Project Guidance and Discussion\
 *Jun 27: project registration deadline*\
 Jul 1:	Project Guidance and Discussion\
