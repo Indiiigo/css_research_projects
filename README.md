@@ -29,3 +29,7 @@ Jul 22:	Midway Presentations\
 Jul 29:	Project Guidance and Discussion\
 Aug 9 [10-12 AM]: Final Presentations\
 Aug 26:	Final Reports Due
+
+## Grading
+- see introduction slides for requirements on what needs to be submitted
+- see [grading criteria](https://github.com/Indiiigo/css_research_projects/blob/main/grading_criteria.md) for detailed breakdown
