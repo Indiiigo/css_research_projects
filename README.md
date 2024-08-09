@@ -13,7 +13,7 @@ This hand-son, project-based seminar introduces a set of examples of research pr
 
 ## Calendar
 
-Apr 8: [Introduction](https://github.com/Indiiigo/css_research_projects/blob/main/slides/1_RP_CSSP_Introduction.pdf)\
+Apr 8: [Introduction](https://github.com/Indiiigo/css_research_projects/blob/main/slides/RP_CSSP_Introduction.pdf)\
 Apr 15:	[Examples of CSS Research](https://github.com/Indiiigo/css_research_projects/blob/main/slides/2_RP_CSSP_Examples.pdf)\
 Apr 22:	[Description of Projects and Datasets](https://github.com/Indiiigo/css_research_projects/blob/main/slides/3_RP_CSSP_Dataset_1.pdf)\
 May 13:	[Techniques for Exploratory Data Analysis](https://github.com/Indiiigo/css_research_projects/blob/main/slides/4_RP_CSSP_EDA_DataViz.pdf)\
